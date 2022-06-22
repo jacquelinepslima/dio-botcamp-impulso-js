@@ -1,5 +1,3 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto.
+# Botcamp Impulso Javascript Evolution - DIO
 
-## Links Úteis
-[Sintaxe Básica Markdown](https://markdown.net.br/sintaxe-basica/)
+Repositório criado para o Botcamp.
